@@ -1,4 +1,4 @@
-# CS558-Computer-Security
+# Public-key Encryption for Banking Application
 This is an iterative secure banking application consisting of a bank server and multiple clients using Public-key encryption.
 
 Server : 
