@@ -1,5 +1,5 @@
 # Public-key Encryption for Banking Application
-This is an iterative secure banking application consisting of a bank server and multiple clients using Public-key encryption.
+It is an iterative secure banking application consisting of a bank server and multiple clients using Public-key encryption.
 
 Server : 
     python3 server/sshserv.py 5063
